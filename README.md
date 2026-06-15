@@ -51,3 +51,6 @@ Rainbow Banner — bu kiritilgan matnlarni nafaqat ulkan ASCII formatida, balki 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=60&section=footer" width="100%"/>
 <b>💎 LIGHT UP YOUR TERMINAL — Built with ❤️ by Aslzoda 💎</b>
 </div>
+
+
+aslzoda
